@@ -1,13 +1,13 @@
-# 📊 Sales Data Cleaning & Exploratory & Descriptive Data Analysis 
+#  Sales Data Cleaning & Exploratory & Descriptive Data Analysis 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on cleaning, preprocessing, and analyzing retail sales data using **Python (Pandas)**. The goal is to transform raw Excel sales data into a clean, analysis-ready dataset and extract meaningful **business insights** related to revenue, profit, customer demographics, and sales performance across regions and channels.
 
 
 ---
 
-## 🗂 Dataset Description
+##  Dataset Description
 
 The dataset contains **100 retail sales transactions** with the following attributes:
 
@@ -26,16 +26,16 @@ The dataset contains **100 retail sales transactions** with the following attrib
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
-* Python 🐍
+* Python 
 * Pandas
 * Jupyter Notebook
 * Excel
 
 ---
 
-## 🧹 Data Cleaning Steps
+##  Data Cleaning Steps
 
 The following steps were performed to ensure data quality:
 
@@ -49,7 +49,7 @@ The cleaned dataset was stored as `cleaned_data` for further analysis.
 
 ---
 
-## 🔧 Feature Engineering
+##  Feature Engineering
 
 Additional business metrics were created to enhance analysis:
 
@@ -62,7 +62,7 @@ These metrics enabled deeper financial and customer behavior analysis.
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 Key analyses performed:
 
@@ -75,7 +75,7 @@ Key analyses performed:
 
 ---
 
-## 📈 Key Insights (Example)
+## Key Insights (Example)
 
 * Certain product categories contribute disproportionately higher profits
 * Online sales channels generate higher revenue in specific regions
@@ -85,7 +85,7 @@ Key analyses performed:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ├── project Sales.xlsx
@@ -95,7 +95,7 @@ Key analyses performed:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone this repository
 2. Install required libraries:
@@ -108,7 +108,7 @@ Key analyses performed:
 
 ---
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning & Validation
 * Exploratory Data Analysis (EDA)
@@ -118,12 +118,12 @@ Key analyses performed:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 If you have suggestions, feedback, or would like to collaborate:
 
 **Vedant Ratnakar**
-Aspiring Data Analyst 
+Data Analyst 
 
 ---
 
